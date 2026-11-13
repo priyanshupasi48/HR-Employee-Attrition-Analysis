@@ -1,0 +1,23 @@
+=======================================================
+HR EMPLOYEE ATTRITION CLEANING REPORT
+=======================================================
+Original Rows: 1470
+Original Columns: 35
+Final Rows: 1470
+Final Columns: 35
+Empty Rows Removed: 0
+Empty Columns Removed: 0
+Duplicate Rows Removed: 0
+Missing Before Cleaning: 0
+Missing After Cleaning: 0
+Duplicate Employee Numbers: 0
+
+Invalid Values Detected:
+
+Imputation Details:
+
+Remaining Missing Values by Column:
+
+=======================================================
+DATA CLEANING COMPLETED SUCCESSFULLY
+=======================================================
